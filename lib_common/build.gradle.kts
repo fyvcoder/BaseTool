@@ -6,7 +6,7 @@ plugins {
     id("maven-publish")
 }
 
-group = "com.github.fyvcoder"
+group = "com.github.yfvcoder"
 
 android {
     namespace = "com.yf.common"
